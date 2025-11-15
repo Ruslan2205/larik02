@@ -8,6 +8,6 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return 'Привет. Это главная страница';
+        return 'Привет.... Это главная страница';
     }
 }
